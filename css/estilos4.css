@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+}
+
+#titulo{
+    color: crimson;
+    text-align: center;
+}
+
+.centrar{
+    text-align: center;
+}
+.texto_grande{
+    font-size: 20px;
+}
